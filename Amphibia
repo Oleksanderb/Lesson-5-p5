@@ -1,0 +1,21 @@
+package L5p5;
+
+public class Amphibia {
+public void eating() {
+	System.out.println("I am eating");
+	
+}
+public void sleeping() {
+	System.out.println("I am sleeping");
+	
+}
+public void walking() {
+	System.out.println("I am walking");
+	
+}
+public void swimming() {
+	System.out.println("I am swimming");
+	
+}
+
+}
