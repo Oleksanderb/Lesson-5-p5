@@ -1,0 +1,12 @@
+package L5p5;
+
+public class Main {
+public static void main(String[]args) {
+	Object a=new Frog();
+	Amphibia Frog=(Amphibia) a;
+	Frog.eating();
+	Frog.sleeping();
+	Frog.swimming();
+	Frog.walking();
+}
+}
